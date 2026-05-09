@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/git-goods/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{본인_아이디}" />
+  <img src="https://render.gitanimals.org/farms/subin21cc" />
 </a>
