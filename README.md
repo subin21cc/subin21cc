@@ -22,19 +22,11 @@ Here are some ideas to get you started:
   <img
     src="https://render.gitanimals.org/lines/subin21cc"
     width="1200"
-    height="120"
+    height="200"
   />
 </a>
 
 
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=subin21cc&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/subin21cc?pet-id=840805737834350626"
-    width="1200"
-    height="120"
-  />
-</a>
-  
 
 
 
