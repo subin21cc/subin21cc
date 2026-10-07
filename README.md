@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 />
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-readme-cat/cat-dark.svg">
+  <img alt="pixel cat" src="./github-readme-cat/cat-light.svg">
+</picture>
+
+
 ![3D Contrib](./profile-3d-contrib/profile-green-animate.svg)
 
 
