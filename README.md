@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-readme-cat/cat-dark.svg">
-  <img alt="pixel cat" src="./github-readme-cat/cat-light.svg" width="400">
+  <img alt="pixel cat" src="./github-readme-cat/cat-light.svg" width="100%">
 </picture>
 
 
