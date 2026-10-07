@@ -15,14 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img
-  src="https://render.gitanimals.org/farms/subin21cc"
-/>
 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-readme-cat/cat-dark.svg">
-  <img alt="pixel cat" src="./github-readme-cat/cat-light.svg">
+  <img alt="pixel cat" src="./github-readme-cat/cat-light.svg" width="400">
 </picture>
 
 
