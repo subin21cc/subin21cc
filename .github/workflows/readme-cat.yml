@@ -17,6 +17,7 @@ jobs:
         with:
           coats: orange eyes=green
           width: 2800
+          pace: 3
       - name: Commit
         run: |
           git config user.name github-actions
